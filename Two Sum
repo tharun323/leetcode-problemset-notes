@@ -18,6 +18,9 @@ Solution:
 -----------------------
 To Solve this problem, we have using a concept called "enumerate" which will convert a list into dictionary with keys starting with 0 to len of list and value
 actual value of the item in the list.
+
+we have used this because its pretty hard to keep track of the diff element index, if we have enumerated array we can have luxury to access the indexes properly
+
 Steps:
 dict = {}
 
